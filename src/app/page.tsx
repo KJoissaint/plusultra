@@ -14,7 +14,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            "Le code fait ce qu'on lui dit de faire, pas ce qu'on veut qu'il fasse".
+          &quot;Le code fait ce qu&rsquo;on lui dit de faire, pas ce qu&rsquo;on veut qu&rsquo;il fasse&quot;.
           </li>
         </ol>
 
